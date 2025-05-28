@@ -1,0 +1,106 @@
+{
+  "elements": [
+    {
+      "uid": "Transceiver_Rio_Gallegos",
+      "type": "Transceiver",
+      "params": {
+        "tx_power": 0
+      }
+    },
+    {
+      "uid": "ROADM_Rio_Gallegos",
+      "type": "Roadm",
+      "params": {
+        "add_drop_osnr": true
+      }
+    },
+    {
+      "uid": "fiber_RG_CLP",
+      "type": "Fiber",
+      "params": {
+        "length": 230.0,
+        "length_units": "km",
+        "loss_coef": 0.2,
+        "dispersion": 16.7,
+        "pmd": 0.1,
+        "gamma": 1.27,
+        "effective_area": 8.3e-11,
+        "pmd_coef": 1.265e-15
+     }
+    },
+    {
+      "uid": "EDFA_CLP",
+      "type": "Edfa",
+      "params": {
+        "gain_target": 20.0,
+        "noise_figure": 5.0
+      }
+    },
+    {
+      "uid": "fiber_CLP_PSJ",
+      "type": "Fiber",
+      "params": {
+        "length": 150.0,
+        "length_units": "km",
+        "loss_coef": 0.2,
+        "dispersion": 16.7,
+        "pmd": 0.1,
+        "gamma": 1.27,
+        "effective_area": 8.3e-11,
+        "pmd_coef": 1.265e-15
+      }
+    },
+    {
+      "uid": "FOADM_Puerto_San_Julian",
+      "type": "Roadm",
+      "params": {}
+    },
+    {
+      "uid": "fiber_PSJ_Jaramillo",
+      "type": "Fiber",
+      "params": {
+        "length": 180.0,
+        "length_units": "km",
+        "loss_coef": 0.2,
+        "dispersion": 16.7,
+        "pmd": 0.1,
+        "gamma": 1.27,
+        "effective_area": 8.3e-11,
+        "pmd_coef": 1.265e-15
+      }
+    },
+    {
+      "uid": "FOADM_Jaramillo",
+      "type": "Roadm",
+      "params": {}
+    },
+    {
+      "uid": "fiber_Jaramillo_CO",
+      "type": "Fiber",
+      "params": {
+        "length": 120.0,
+        "length_units": "km",
+        "loss_coef": 0.2,
+        "dispersion": 16.7,
+        "pmd": 0.1,
+        "gamma": 1.27,
+        "effective_area": 8.3e-11,
+        "pmd_coef": 1.265e-15
+      }
+    },
+    {
+      "uid": "ROADM_Caleta_Olivia",
+      "type": "Roadm",
+      "params": {
+        "add_drop_osnr": true
+      }
+    },
+    {
+      "uid": "Transceiver_Caleta_Olivia",
+      "type": "Transceiver",
+      "params": {}
+    }
+  ]
+}
+
+
