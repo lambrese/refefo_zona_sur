@@ -1,106 +1,205 @@
 {
   "elements": [
     {
-      "uid": "Transceiver_Rio_Gallegos",
+      "uid": "trx_RIO_GALLEGOS",
       "type": "Transceiver",
-      "params": {
-        "tx_power": 0
+      "metadata": {
+        "location": {
+          "latitude": -51.6230,
+          "longitude": -69.2168,
+          "city": "RIO GALLEGOS",
+          "region": "SUR"
+        }
       }
     },
     {
-      "uid": "ROADM_Rio_Gallegos",
-      "type": "Roadm",
-      "params": {
-        "add_drop_osnr": true
-      }
-    },
-    {
-      "uid": "fiber_RG_CLP",
-      "type": "Fiber",
-      "params": {
-        "length": 230.0,
-        "length_units": "km",
-        "loss_coef": 0.2,
-        "dispersion": 16.7,
-        "pmd": 0.1,
-        "gamma": 1.27,
-        "effective_area": 8.3e-11,
-        "pmd_coef": 1.265e-15
-     }
-    },
-    {
-      "uid": "EDFA_CLP",
-      "type": "Edfa",
-      "params": {
-        "gain_target": 20.0,
-        "noise_figure": 5.0
-      }
-    },
-    {
-      "uid": "fiber_CLP_PSJ",
-      "type": "Fiber",
-      "params": {
-        "length": 150.0,
-        "length_units": "km",
-        "loss_coef": 0.2,
-        "dispersion": 16.7,
-        "pmd": 0.1,
-        "gamma": 1.27,
-        "effective_area": 8.3e-11,
-        "pmd_coef": 1.265e-15
-      }
-    },
-    {
-      "uid": "FOADM_Puerto_San_Julian",
-      "type": "Roadm",
-      "params": {}
-    },
-    {
-      "uid": "fiber_PSJ_Jaramillo",
-      "type": "Fiber",
-      "params": {
-        "length": 180.0,
-        "length_units": "km",
-        "loss_coef": 0.2,
-        "dispersion": 16.7,
-        "pmd": 0.1,
-        "gamma": 1.27,
-        "effective_area": 8.3e-11,
-        "pmd_coef": 1.265e-15
-      }
-    },
-    {
-      "uid": "FOADM_Jaramillo",
-      "type": "Roadm",
-      "params": {}
-    },
-    {
-      "uid": "fiber_Jaramillo_CO",
-      "type": "Fiber",
-      "params": {
-        "length": 120.0,
-        "length_units": "km",
-        "loss_coef": 0.2,
-        "dispersion": 16.7,
-        "pmd": 0.1,
-        "gamma": 1.27,
-        "effective_area": 8.3e-11,
-        "pmd_coef": 1.265e-15
-      }
-    },
-    {
-      "uid": "ROADM_Caleta_Olivia",
-      "type": "Roadm",
-      "params": {
-        "add_drop_osnr": true
-      }
-    },
-    {
-      "uid": "Transceiver_Caleta_Olivia",
+      "uid": "trx_CALETAA_OLIVIA",
       "type": "Transceiver",
-      "params": {}
+      "metadata": {
+        "location": {
+          "latitude": -46.4422,
+          "longitude": -67.5286,
+          "city": "CALETA OLIVIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_RIO_GALLEGOS",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -51.6230,
+          "longitude": -69.2168,
+          "city": "RIO GALLEGOS",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_CALETAA_OLIVIA",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -46.4422,
+          "longitude": -67.5286,
+          "city": "CALETA OLIVIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_PIEDRABUENA",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -49.9831,
+          "longitude": -68.9100,
+          "city": "COMANDANTE LUIS PIEDRABUENA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_SAN_JULIAN",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -49.3067,
+          "longitude": -67.7266,
+          "city": "SAN JULIAN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_JARAMILLO",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -47.1100,
+          "longitude": -67.5833,
+          "city": "JARAMILLO",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_RIOGALLEGOS_PIEDRABUENA",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 260,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -50.8,
+          "longitude": -69.06,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_PIEDRABUENA_SANJULIAN",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 100,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -49.6,
+          "longitude": -68.3,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_SANJULIAN_JARAMILLO",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 340,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -47.7734,
+          "longitude": -67.65495,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_JARAMILLO_CALETAA_OLIVIA",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 50,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -46.3411,
+          "longitude": -67.55595,
+          "city": null,
+          "region": "SUR"
+        }
+      }
     }
+  ],
+  "connections": [
+    {"from_node": "trx_RIO_GALLEGOS", "to_node": "roadm_RIO_GALLEGOS"},
+    {"from_node": "roadm_RIO_GALLEGOS", "to_node": "fiber_RIOGALLEGOS_PIEDRABUENA"},
+    {"from_node": "fiber_RIOGALLEGOS_PIEDRABUENA", "to_node": "roadm_PIEDRABUENA"},
+    {"from_node": "roadm_PIEDRABUENA", "to_node": "fiber_PIEDRABUENA_SANJULIAN"},
+    {"from_node": "fiber_PIEDRABUENA_SANJULIAN", "to_node": "roadm_SAN_JULIAN"},
+    {"from_node": "roadm_SAN_JULIAN", "to_node": "fiber_SANJULIAN_JARAMILLO"},
+    {"from_node": "fiber_SANJULIAN_JARAMILLO", "to_node": "roadm_JARAMILLO"},
+    {"from_node": "roadm_JARAMILLO", "to_node": "fiber_JARAMILLO_CALETAA_OLIVIA"},
+    {"from_node": "fiber_JARAMILLO_CALETAA_OLIVIA", "to_node": "roadm_CALETAA_OLIVIA"},
+    {"from_node": "roadm_CALETAA_OLIVIA", "to_node": "trx_CALETAA_OLIVIA"}
   ]
 }
-
-
