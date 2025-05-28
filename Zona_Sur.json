@@ -114,7 +114,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 260,
+        "length": 264.2,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -134,7 +134,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100,
+        "length": 75.1,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -154,7 +154,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 340,
+        "length": 282.7,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -174,7 +174,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50,
+        "length": 61.1,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -188,9 +188,661 @@
           "region": "SUR"
         }
       }
+    },
+    {
+      "uid": "trx_SAN_ANTONIO_OESTE",
+      "type": "Transceiver",
+      "metadata": {
+        "location": {
+          "latitude": -40.7314,
+          "longitude": -64.9422,
+          "city": "SAN ANTONIO OESTE",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_SAN_ANTONIO_OESTE",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.7314,
+          "longitude": -64.9422,
+          "city": "SAN ANTONIO OESTE",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_COMODORO_RIVADAVIA",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -45.8647,
+          "longitude": -67.4822,
+          "city": "COMODORO RIVADAVIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_ASTRA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -45.6333,
+          "longitude": -67.4167,
+          "city": "ASTRA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_GARAYALDE",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -45.8667,
+          "longitude": -67.0833,
+          "city": "GARAYALDE",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_RAWSON",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -43.3002,
+          "longitude": -65.1023,
+          "city": "RAWSON",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_TRELEW",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -43.2532,
+          "longitude": -65.3097,
+          "city": "TRELEW",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_PUERTO_MADRYN",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -42.7692,
+          "longitude": -65.0385,
+          "city": "PUERTO MADRYN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_ARROYO_VERDE",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -41.5000,
+          "longitude": -65.0833,
+          "city": "ARROYO VERDE",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_SIERRA_GRANDE",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -41.6056,
+          "longitude": -65.3497,
+          "city": "SIERRA GRANDE",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_LAS_GRUTAS",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -40.8000,
+          "longitude": -65.0833,
+          "city": "LAS GRUTAS",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_CO_COMODORO",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 180,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -46.2,
+          "longitude": -67.5,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_COMODORO_ASTRA",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 20,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -45.75,
+          "longitude": -67.45,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_ASTRA_GARAYALDE",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 60,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -45.75,
+          "longitude": -67.25,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_GARAYALDE_RAWSON",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 180,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -44.6,
+          "longitude": -66.1,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_RAWSON_TRELEW",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 20,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -43.2767,
+          "longitude": -65.206,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_TRELEW_PUERTO_MADRYN",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 65,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -43.0,
+          "longitude": -65.1,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_PUERTO_MADRYN_ARROYO_VERDE",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 90,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -42.2,
+          "longitude": -65.1,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_ARROYO_VERDE_SIERRA_GRANDE",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 60,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -41.6,
+          "longitude": -65.2,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_SIERRA_GRANDE_LAS_GRUTAS",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 80,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -41.2,
+          "longitude": -65.1,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_LAS_GRUTAS_SAN_ANTONIO_OESTE",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 15,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.8,
+          "longitude": -65.0,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_AGUADA_CECILIO",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.8500,
+          "longitude": -65.6333,
+          "city": "AGUADA CECILIO",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_NAHUEL_NIYEU",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -41.0167,
+          "longitude": -66.1833,
+          "city": "NAHUEL NIYEU",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_MINISTRO_RAMOS_MEXIA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -40.7167,
+          "longitude": -66.4667,
+          "city": "MINISTRO RAMOS MEXIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_LOS_MENUCOS",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -40.8500,
+          "longitude": -67.4667,
+          "city": "LOS MENUCOS",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_MAQUINCHAO",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -41.2500,
+          "longitude": -67.5833,
+          "city": "MAQUINCHAO",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_ING_JACOBACCI",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -41.3333,
+          "longitude": -69.5333,
+          "city": "INGENIERO JACOBACCI",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_COMALLO",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -41.0333,
+          "longitude": -70.2667,
+          "city": "COMALLO",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_DINA_HUAPI",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -41.0833,
+          "longitude": -71.0167,
+          "city": "DINA HUAPI",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "trx_DINA_HUAPI",
+      "type": "Transceiver",
+      "metadata": {
+        "location": {
+          "latitude": -41.0833,
+          "longitude": -71.0167,
+          "city": "DINA HUAPI",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_SAN_ANTONIO_OESTE_AGUADA_CECILIO",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 62.0,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.7907,
+          "longitude": -65.2877,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_AGUADA_CECILIO_NAHUEL_NIYEU",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 51.0,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.9334,
+          "longitude": -65.9083,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_NAHUEL_NIYEU_MINISTRO_RAMOS_MEXIA",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 47.0,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.8667,
+          "longitude": -66.3250,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_MINISTRO_RAMOS_MEXIA_LOS_MENUCOS",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 85.0,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.7834,
+          "longitude": -66.9667,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_LOS_MENUCOS_MAQUINCHAO",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 41.0,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -41.05,
+          "longitude": -67.525,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_MAQUINCHAO_ING_JACOBACCI",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 168.0,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -41.2917,
+          "longitude": -68.5583,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_ING_JACOBACCI_COMALLO",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 66.0,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -41.1833,
+          "longitude": -69.9,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_COMALLO_DINA_HUAPI",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 66.0,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -41.0583,
+          "longitude": -70.6417,
+          "city": null,
+          "region": "SUR"
+        }
+      }
     }
   ],
   "connections": [
+    {"from_node": "trx_SAN_ANTONIO_OESTE", "to_node": "roadm_SAN_ANTONIO_OESTE"},
+    {"from_node": "trx_CALETAA_OLIVIA", "to_node": "roadm_CALETAA_OLIVIA"},
     {"from_node": "trx_RIO_GALLEGOS", "to_node": "roadm_RIO_GALLEGOS"},
     {"from_node": "roadm_RIO_GALLEGOS", "to_node": "fiber_RIOGALLEGOS_PIEDRABUENA"},
     {"from_node": "fiber_RIOGALLEGOS_PIEDRABUENA", "to_node": "roadm_PIEDRABUENA"},
@@ -200,6 +852,42 @@
     {"from_node": "fiber_SANJULIAN_JARAMILLO", "to_node": "roadm_JARAMILLO"},
     {"from_node": "roadm_JARAMILLO", "to_node": "fiber_JARAMILLO_CALETAA_OLIVIA"},
     {"from_node": "fiber_JARAMILLO_CALETAA_OLIVIA", "to_node": "roadm_CALETAA_OLIVIA"},
-    {"from_node": "roadm_CALETAA_OLIVIA", "to_node": "trx_CALETAA_OLIVIA"}
+    {"from_node": "roadm_CALETAA_OLIVIA", "to_node": "fiber_CO_COMODORO"},
+    {"from_node": "fiber_CO_COMODORO", "to_node": "roadm_COMODORO_RIVADAVIA"},
+    {"from_node": "roadm_COMODORO_RIVADAVIA", "to_node": "fiber_COMODORO_ASTRA"},
+    {"from_node": "fiber_COMODORO_ASTRA", "to_node": "edfa_ASTRA"},
+    {"from_node": "edfa_ASTRA", "to_node": "fiber_ASTRA_GARAYALDE"},
+    {"from_node": "fiber_ASTRA_GARAYALDE", "to_node": "edfa_GARAYALDE"},
+    {"from_node": "edfa_GARAYALDE", "to_node": "fiber_GARAYALDE_RAWSON"},
+    {"from_node": "fiber_GARAYALDE_RAWSON", "to_node": "roadm_RAWSON"},
+    {"from_node": "roadm_RAWSON", "to_node": "fiber_RAWSON_TRELEW"},
+    {"from_node": "fiber_RAWSON_TRELEW", "to_node": "roadm_TRELEW"},
+    {"from_node": "roadm_TRELEW", "to_node": "fiber_TRELEW_PUERTO_MADRYN"},
+    {"from_node": "fiber_TRELEW_PUERTO_MADRYN", "to_node": "roadm_PUERTO_MADRYN"},
+    {"from_node": "roadm_PUERTO_MADRYN", "to_node": "fiber_PUERTO_MADRYN_ARROYO_VERDE"},
+    {"from_node": "fiber_PUERTO_MADRYN_ARROYO_VERDE", "to_node": "edfa_ARROYO_VERDE"},
+    {"from_node": "edfa_ARROYO_VERDE", "to_node": "fiber_ARROYO_VERDE_SIERRA_GRANDE"},
+    {"from_node": "fiber_ARROYO_VERDE_SIERRA_GRANDE", "to_node": "roadm_SIERRA_GRANDE"},
+    {"from_node": "roadm_SIERRA_GRANDE", "to_node": "fiber_SIERRA_GRANDE_LAS_GRUTAS"},
+    {"from_node": "fiber_SIERRA_GRANDE_LAS_GRUTAS", "to_node": "edfa_LAS_GRUTAS"},
+    {"from_node": "edfa_LAS_GRUTAS", "to_node": "fiber_LAS_GRUTAS_SAN_ANTONIO_OESTE"},
+    {"from_node": "fiber_LAS_GRUTAS_SAN_ANTONIO_OESTE", "to_node": "roadm_SAN_ANTONIO_OESTE"},
+    {"from_node": "roadm_SAN_ANTONIO_OESTE", "to_node": "fiber_SAN_ANTONIO_OESTE_AGUADA_CECILIO"},
+    {"from_node": "fiber_SAN_ANTONIO_OESTE_AGUADA_CECILIO", "to_node": "roadm_AGUADA_CECILIO"},
+    {"from_node": "roadm_AGUADA_CECILIO", "to_node": "fiber_AGUADA_CECILIO_NAHUEL_NIYEU"},
+    {"from_node": "fiber_AGUADA_CECILIO_NAHUEL_NIYEU", "to_node": "edfa_NAHUEL_NIYEU"},
+    {"from_node": "edfa_NAHUEL_NIYEU", "to_node": "fiber_NAHUEL_NIYEU_MINISTRO_RAMOS_MEXIA"},
+    {"from_node": "fiber_NAHUEL_NIYEU_MINISTRO_RAMOS_MEXIA", "to_node": "edfa_MINISTRO_RAMOS_MEXIA"},
+    {"from_node": "edfa_MINISTRO_RAMOS_MEXIA", "to_node": "fiber_MINISTRO_RAMOS_MEXIA_LOS_MENUCOS"},
+    {"from_node": "fiber_MINISTRO_RAMOS_MEXIA_LOS_MENUCOS", "to_node": "edfa_LOS_MENUCOS"},
+    {"from_node": "edfa_LOS_MENUCOS", "to_node": "fiber_LOS_MENUCOS_MAQUINCHAO"},
+    {"from_node": "fiber_LOS_MENUCOS_MAQUINCHAO", "to_node": "edfa_MAQUINCHAO"},
+    {"from_node": "edfa_MAQUINCHAO", "to_node": "fiber_MAQUINCHAO_ING_JACOBACCI"},
+    {"from_node": "fiber_MAQUINCHAO_ING_JACOBACCI", "to_node": "edfa_ING_JACOBACCI"},
+    {"from_node": "edfa_ING_JACOBACCI", "to_node": "fiber_ING_JACOBACCI_COMALLO"},
+    {"from_node": "fiber_ING_JACOBACCI_COMALLO", "to_node": "edfa_COMALLO"},
+    {"from_node": "edfa_COMALLO", "to_node": "fiber_COMALLO_DINA_HUAPI"},
+    {"from_node": "fiber_COMALLO_DINA_HUAPI", "to_node": "roadm_DINA_HUAPI"},
+    {"from_node": "roadm_DINA_HUAPI", "to_node": "trx_DINA_HUAPI"}
   ]
 }
