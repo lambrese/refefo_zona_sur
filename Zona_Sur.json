@@ -3784,6 +3784,237 @@
           "region": "SUR"
         }
       }
+    },
+    {
+      "uid": "roadm_ESTACION_CULLEN",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {},
+        "is_foadm": true
+      },
+      "metadata": {
+        "location": {
+          "latitude": -51.3333,
+          "longitude": -69.5833,
+          "city": "ESTACION CULLEN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_SAN_SEBASTIAN",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {},
+        "is_foadm": true
+      },
+      "metadata": {
+        "location": {
+          "latitude": -53.3000,
+          "longitude": -68.3667,
+          "city": "SAN SEBASTIAN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_RIO_GRANDE",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {},
+        "is_foadm": true
+      },
+      "metadata": {
+        "location": {
+          "latitude": -53.7833,
+          "longitude": -67.7000,
+          "city": "RIO GRANDE",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_TOLHUIN",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {},
+        "is_foadm": true
+      },
+      "metadata": {
+        "location": {
+          "latitude": -54.5167,
+          "longitude": -67.2000,
+          "city": "TOLHUIN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "trx_USHUAIA",
+      "type": "Transceiver",
+      "metadata": {
+        "location": {
+          "latitude": -54.8019,
+          "longitude": -68.3030,
+          "city": "USHUAIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_USHUAIA",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -54.8019,
+          "longitude": -68.3030,
+          "city": "USHUAIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_RIO_GALLEGOS_ESTACION_CULLEN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -51.4779,
+          "longitude": -69.4007,
+          "city": "edfa_RIO_GALLEGOS_ESTACION_CULLEN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_ESTACION_CULLEN_RIO_GALLEGOS",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -51.4779,
+          "longitude": -69.4007,
+          "city": "edfa_ESTACION_CULLEN_RIO_GALLEGOS",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_ESTACION_CULLEN_SAN_SEBASTIAN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -52.3166,
+          "longitude": -68.9750,
+          "city": "edfa_ESTACION_CULLEN_SAN_SEBASTIAN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_SAN_SEBASTIAN_ESTACION_CULLEN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -52.3166,
+          "longitude": -68.9750,
+          "city": "edfa_SAN_SEBASTIAN_ESTACION_CULLEN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_SAN_SEBASTIAN_RIO_GRANDE",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -53.5416,
+          "longitude": -68.0333,
+          "city": "edfa_SAN_SEBASTIAN_RIO_GRANDE",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_RIO_GRANDE_SAN_SEBASTIAN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -53.5416,
+          "longitude": -68.0333,
+          "city": "edfa_RIO_GRANDE_SAN_SEBASTIAN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_RIO_GRANDE_TOLHUIN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -54.1500,
+          "longitude": -67.4500,
+          "city": "edfa_RIO_GRANDE_TOLHUIN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_TOLHUIN_RIO_GRANDE",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -54.1500,
+          "longitude": -67.4500,
+          "city": "edfa_TOLHUIN_RIO_GRANDE",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_TOLHUIN_USHUAIA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -54.6593,
+          "longitude": -67.7515,
+          "city": "edfa_TOLHUIN_USHUAIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_USHUAIA_TOLHUIN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -54.6593,
+          "longitude": -67.7515,
+          "city": "edfa_USHUAIA_TOLHUIN",
+          "region": "SUR"
+        }
+      }
     }
   ],
   "connections": [
@@ -4098,6 +4329,95 @@
     {"from_node": "roadm_BAHIA_BLANCA", "to_node": "fiber_BAHIA_BLANCA_JUAN_COUSTE"},
     {"from_node": "fiber_BAHIA_BLANCA_JUAN_COUSTE", "to_node": "edfa_JUAN_COUSTE_W"},
     {"from_node": "edfa_JUAN_COUSTE_W", "to_node": "fiber_JUAN_COUSTE_RIO_COLORADO"},
-    {"from_node": "fiber_JUAN_COUSTE_RIO_COLORADO", "to_node": "roadm_RIO_COLORADO"}
+    {"from_node": "fiber_JUAN_COUSTE_RIO_COLORADO", "to_node": "roadm_RIO_COLORADO"},
+
+    {
+      "from_node": "trx_USHUAIA",
+      "to_node": "roadm_USHUAIA"
+    },
+    {
+      "from_node": "roadm_USHUAIA",
+      "to_node": "trx_USHUAIA"
+    },
+    {
+      "from_node": "roadm_RIO_GALLEGOS",
+      "to_node": "edfa_RIO_GALLEGOS_ESTACION_CULLEN"
+    },
+    {
+      "from_node": "edfa_RIO_GALLEGOS_ESTACION_CULLEN",
+      "to_node": "roadm_ESTACION_CULLEN"
+    },
+    {
+      "from_node": "roadm_ESTACION_CULLEN",
+      "to_node": "edfa_ESTACION_CULLEN_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "edfa_ESTACION_CULLEN_RIO_GALLEGOS",
+      "to_node": "roadm_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "roadm_ESTACION_CULLEN",
+      "to_node": "edfa_ESTACION_CULLEN_SAN_SEBASTIAN"
+    },
+    {
+      "from_node": "edfa_ESTACION_CULLEN_SAN_SEBASTIAN",
+      "to_node": "roadm_SAN_SEBASTIAN"
+    },
+    {
+      "from_node": "roadm_SAN_SEBASTIAN",
+      "to_node": "edfa_SAN_SEBASTIAN_ESTACION_CULLEN"
+    },
+    {
+      "from_node": "edfa_SAN_SEBASTIAN_ESTACION_CULLEN",
+      "to_node": "roadm_ESTACION_CULLEN"
+    },
+    {
+      "from_node": "roadm_SAN_SEBASTIAN",
+      "to_node": "edfa_SAN_SEBASTIAN_RIO_GRANDE"
+    },
+    {
+      "from_node": "edfa_SAN_SEBASTIAN_RIO_GRANDE",
+      "to_node": "roadm_RIO_GRANDE"
+    },
+    {
+      "from_node": "roadm_RIO_GRANDE",
+      "to_node": "edfa_RIO_GRANDE_SAN_SEBASTIAN"
+    },
+    {
+      "from_node": "edfa_RIO_GRANDE_SAN_SEBASTIAN",
+      "to_node": "roadm_SAN_SEBASTIAN"
+    },
+    {
+      "from_node": "roadm_RIO_GRANDE",
+      "to_node": "edfa_RIO_GRANDE_TOLHUIN"
+    },
+    {
+      "from_node": "edfa_RIO_GRANDE_TOLHUIN",
+      "to_node": "roadm_TOLHUIN"
+    },
+    {
+      "from_node": "roadm_TOLHUIN",
+      "to_node": "edfa_TOLHUIN_RIO_GRANDE"
+    },
+    {
+      "from_node": "edfa_TOLHUIN_RIO_GRANDE",
+      "to_node": "roadm_RIO_GRANDE"
+    },
+    {
+      "from_node": "roadm_TOLHUIN",
+      "to_node": "edfa_TOLHUIN_USHUAIA"
+    },
+    {
+      "from_node": "edfa_TOLHUIN_USHUAIA",
+      "to_node": "roadm_USHUAIA"
+    },
+    {
+      "from_node": "roadm_USHUAIA",
+      "to_node": "edfa_USHUAIA_TOLHUIN"
+    },
+    {
+      "from_node": "edfa_USHUAIA_TOLHUIN",
+      "to_node": "roadm_TOLHUIN"
+    }
   ]
 }
