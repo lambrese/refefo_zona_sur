@@ -274,7 +274,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 264.2,
+        "length": 240,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -294,7 +294,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 264.2,
+        "length": 240,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -314,7 +314,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 75.1,
+        "length": 130,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -334,7 +334,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 75.1,
+        "length": 130,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -354,7 +354,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 282.7,
+        "length": 270,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -374,7 +374,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 282.7,
+        "length": 270,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -394,7 +394,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 61.1,
+        "length": 25,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -414,7 +414,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 61.1,
+        "length": 25,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -434,7 +434,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 180,
+        "length": 84,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -454,7 +454,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 180,
+        "length": 84,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -474,7 +474,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 20,
+        "length": 19,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -494,7 +494,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 20,
+        "length": 19,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -514,7 +514,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60,
+        "length": 169,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -534,7 +534,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60,
+        "length": 169,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -554,7 +554,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 180,
+        "length": 210,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -574,7 +574,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 180,
+        "length": 210,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -594,7 +594,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 20,
+        "length": 22,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -614,7 +614,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 20,
+        "length": 22,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -634,7 +634,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 65,
+        "length": 69,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -654,7 +654,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 65,
+        "length": 69,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -674,7 +674,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 90,
+        "length": 100,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -694,7 +694,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 90,
+        "length": 100,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -714,7 +714,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60,
+        "length": 49,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -734,7 +734,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60,
+        "length": 49,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -754,7 +754,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80,
+        "length": 125,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -774,7 +774,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80,
+        "length": 125,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -794,7 +794,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 15,
+        "length": 18,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -814,7 +814,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 15,
+        "length": 18,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -834,7 +834,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 62.0,
+        "length": 90,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -854,7 +854,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 62.0,
+        "length": 90,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -874,7 +874,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 51.0,
+        "length": 79,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -894,7 +894,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 51.0,
+        "length": 79,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -914,7 +914,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 47.0,
+        "length": 64,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -934,7 +934,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 47.0,
+        "length": 64,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -954,7 +954,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 85.0,
+        "length": 96,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -974,7 +974,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 85.0,
+        "length": 96,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -994,7 +994,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 41.0,
+        "length": 74,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1014,7 +1014,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 41.0,
+        "length": 74,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1034,7 +1034,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 168.0,
+        "length": 77,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1054,7 +1054,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 168.0,
+        "length": 77,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1074,7 +1074,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 66.0,
+        "length": 95,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1094,7 +1094,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 66.0,
+        "length": 95,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1114,7 +1114,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 66.0,
+        "length": 107,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1134,7 +1134,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 66.0,
+        "length": 107,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1495,8 +1495,8 @@
       "params": {},
       "metadata": {
         "location": {
-          "latitude": -39.7500,
-          "longitude": -70.9167,
+          "latitude": -40.8900,
+          "longitude": -71.03,
           "city": "VILLA LLANQUIN",
           "region": "SUR"
         }
@@ -1508,8 +1508,8 @@
       "params": {},
       "metadata": {
         "location": {
-          "latitude": -39.7500,
-          "longitude": -70.9167,
+          "latitude": -40.8900,
+          "longitude": -71.03,
           "city": "VILLA LLANQUIN",
           "region": "SUR"
         }
@@ -1520,7 +1520,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 150.0,
+        "length": 28,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1540,7 +1540,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 150.0,
+        "length": 28,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1560,7 +1560,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100.0,
+        "length": 172,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1580,7 +1580,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100.0,
+        "length": 172,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1600,7 +1600,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 100.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1620,7 +1620,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 100.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1640,7 +1640,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 84,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1660,7 +1660,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 84,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1680,7 +1680,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 54,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1700,7 +1700,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 54,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1757,6 +1757,23 @@
           "latitude": -40.1579,
           "longitude": -71.3534,
           "city": "SAN MARTIN DE LOS ANDES",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_VILLA_LANGOSTURA",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.76,
+          "longitude": -71.7,
+          "city": "VILLA LANGOSTURA",
           "region": "SUR"
         }
       }
@@ -1977,11 +1994,11 @@
       }
     },
     {
-      "uid": "fiber_DINA_HUAPI_SAN_MARTIN",
+      "uid": "fiber_SAN_MARTIN_VILLA_LANGOSTURA",
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 118,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -1997,11 +2014,51 @@
       }
     },
     {
-      "uid": "fiber_SAN_MARTIN_DINA_HUAPI",
+      "uid": "fiber_VILLA_LANGOSTURA_SAN_MARTIN",
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 118,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.6206,
+          "longitude": -71.1851,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_VILLA_LANGOSTURA_DINA_HUAPI",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 74,
+        "loss_coef": 0.2,
+        "length_units": "km",
+        "att_in": 0.5,
+        "att_out": 0.5
+      },
+      "metadata": {
+        "location": {
+          "latitude": -40.6206,
+          "longitude": -71.1851,
+          "city": null,
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "fiber_DINA_HUAPI_VILLA_LANGOSTURA",
+      "type": "Fiber",
+      "type_variety": "SSMF",
+      "params": {
+        "length": 74,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2061,7 +2118,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 123,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2081,7 +2138,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 123,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2101,7 +2158,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 92,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2121,7 +2178,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 92,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2141,7 +2198,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 40.0,
+        "length": 83,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2161,7 +2218,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 40.0,
+        "length": 83,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2181,7 +2238,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 95,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2201,7 +2258,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 95,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2221,7 +2278,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100.0,
+        "length": 77,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2241,7 +2298,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100.0,
+        "length": 77,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2261,7 +2318,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 40.0,
+        "length": 92,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2281,7 +2338,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 40.0,
+        "length": 92,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2301,7 +2358,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 125,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2321,7 +2378,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 125,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2341,7 +2398,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100.0,
+        "length": 70,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2361,7 +2418,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100.0,
+        "length": 70,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2381,7 +2438,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 53,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2401,7 +2458,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 53,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2421,7 +2478,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 142,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2441,7 +2498,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 142,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2576,7 +2633,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 35,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2596,7 +2653,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 35,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2616,7 +2673,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 102,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2636,7 +2693,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 102,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2656,7 +2713,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 90.0,
+        "length": 96,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2676,7 +2733,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 90.0,
+        "length": 96,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2696,7 +2753,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 120.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2716,7 +2773,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 120.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2736,7 +2793,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 34,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2756,7 +2813,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 34,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2828,7 +2885,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 72.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2848,7 +2905,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 72.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2908,7 +2965,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 100.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -2928,7 +2985,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 100.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3037,7 +3094,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 51.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3057,7 +3114,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 51.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3077,7 +3134,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 100.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3097,7 +3154,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 100.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3117,7 +3174,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 88.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3137,7 +3194,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 88.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3157,7 +3214,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 90.0,
+        "length": 147.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3177,7 +3234,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 90.0,
+        "length": 147.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3214,7 +3271,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 98.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3234,7 +3291,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 98.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3254,7 +3311,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100.0,
+        "length": 156.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3274,7 +3331,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 100.0,
+        "length": 156.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3444,7 +3501,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 163.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3464,7 +3521,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 80.0,
+        "length": 163.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3484,7 +3541,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 28.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3504,7 +3561,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 70.0,
+        "length": 28.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3524,7 +3581,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 92.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3544,7 +3601,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 92.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3564,7 +3621,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 84.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3584,7 +3641,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 84.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3604,7 +3661,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 54.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3624,7 +3681,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 50.0,
+        "length": 54.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3644,7 +3701,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 74.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3664,7 +3721,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 60.0,
+        "length": 74.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3684,7 +3741,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 20.0,
+        "length": 95.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3704,7 +3761,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 20.0,
+        "length": 95.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3724,7 +3781,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 150.0,
+        "length": 92.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -3744,7 +3801,7 @@
       "type": "Fiber",
       "type_variety": "SSMF",
       "params": {
-        "length": 150.0,
+        "length": 92.0,
         "loss_coef": 0.2,
         "length_units": "km",
         "att_in": 0.5,
@@ -4164,15 +4221,23 @@
     {"from_node": "fiber_NEUQUEN_ARROYITO", "to_node": "roadm_ARROYITO"},
     {"from_node": "trx_SAN_RAFAEL", "to_node": "roadm_SAN_RAFAEL"},
     {"from_node": "roadm_SAN_RAFAEL", "to_node": "trx_SAN_RAFAEL"},
-    {"from_node": "roadm_DINA_HUAPI", "to_node": "fiber_DINA_HUAPI_SAN_MARTIN"},
-    {"from_node": "fiber_DINA_HUAPI_SAN_MARTIN", "to_node": "roadm_SAN_MARTIN_ANDES"},
-    {"from_node": "roadm_SAN_MARTIN_ANDES", "to_node": "fiber_SAN_MARTIN_DINA_HUAPI"},
-    {"from_node": "fiber_SAN_MARTIN_DINA_HUAPI", "to_node": "roadm_DINA_HUAPI"},
-    {"from_node": "roadm_SAN_MARTIN_ANDES", "to_node": "fiber_SAN_MARTIN_JUNIN"},
+
+    {"from_node": "roadm_DINA_HUAPI", "to_node": "fiber_DINA_HUAPI_VILLA_LANGOSTURA"},
+    {"from_node": "fiber_DINA_HUAPI_VILLA_LANGOSTURA", "to_node": "roadm_VILLA_LANGOSTURA"},
+    {"from_node": "roadm_VILLA_LANGOSTURA", "to_node": "fiber_VILLA_LANGOSTURA_DINA_HUAPI"},
+    {"from_node": "fiber_VILLA_LANGOSTURA_DINA_HUAPI", "to_node": "roadm_DINA_HUAPI"},
+
+    {"from_node": "roadm_VILLA_LANGOSTURA", "to_node": "fiber_VILLA_LANGOSTURA_SAN_MARTIN"},
+    {"from_node": "fiber_VILLA_LANGOSTURA_SAN_MARTIN", "to_node": "roadm_SAN_MARTIN_ANDES"},
+    {"from_node": "roadm_SAN_MARTIN_ANDES", "to_node": "fiber_SAN_MARTIN_VILLA_LANGOSTURA"},
+    {"from_node": "fiber_SAN_MARTIN_VILLA_LANGOSTURA", "to_node": "roadm_VILLA_LANGOSTURA"},
+ 
     {"from_node": "fiber_SAN_MARTIN_JUNIN", "to_node": "roadm_JUNIN_ANDES"},
     {"from_node": "roadm_JUNIN_ANDES", "to_node": "fiber_JUNIN_SAN_MARTIN"},
     {"from_node": "fiber_JUNIN_SAN_MARTIN", "to_node": "roadm_SAN_MARTIN_ANDES"},
+    {"from_node": "roadm_SAN_MARTIN_ANDES", "to_node": "fiber_SAN_MARTIN_JUNIN"},
     {"from_node": "roadm_JUNIN_ANDES", "to_node": "fiber_JUNIN_LAS_COLORADAS"},
+
     {"from_node": "fiber_JUNIN_LAS_COLORADAS", "to_node": "edfa_LAS_COLORADAS_E"},
     {"from_node": "edfa_LAS_COLORADAS_E", "to_node": "fiber_LAS_COLORADAS_ZAPALA"},
     {"from_node": "fiber_LAS_COLORADAS_ZAPALA", "to_node": "roadm_ZAPALA"},
@@ -4419,5 +4484,6 @@
       "from_node": "edfa_USHUAIA_TOLHUIN",
       "to_node": "roadm_TOLHUIN"
     }
+    
   ]
 }
