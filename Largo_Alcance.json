@@ -1,0 +1,485 @@
+{
+  "elements": [
+    {
+      "uid": "trx_NEUQUEN",
+      "type": "Transceiver",
+      "metadata": {
+        "location": {
+          "latitude": -38.9516,
+          "longitude": -68.0591,
+          "city": "NEUQUEN",
+          "region": "CUYO"
+        }
+      }
+    },
+    {
+      "uid": "trx_BAHIA_BLANCA",
+      "type": "Transceiver",
+      "metadata": {
+        "location": {
+          "latitude": -38.7183,
+          "longitude": -62.2663,
+          "city": "BAHIA BLANCA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "trx_SANTA_ISABEL",
+      "type": "Transceiver",
+      "metadata": {
+        "location": {
+          "latitude": -36.2272,
+          "longitude": -66.9424,
+          "city": "SANTA ISABEL",
+          "region": "CUYO"
+        }
+      }
+    },
+    {
+      "uid": "trx_CALETA_OLIVIA",
+      "type": "Transceiver",
+      "metadata": {
+        "location": {
+          "latitude": -46.4422,
+          "longitude": -67.5286,
+          "city": "CALETA OLIVIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "trx_RIO_GALLEGOS",
+      "type": "Transceiver",
+      "metadata": {
+        "location": {
+          "latitude": -51.6226,
+          "longitude": -69.2181,
+          "city": "RIO GALLEGOS",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_NEUQUEN",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -38.9516,
+          "longitude": -68.0591,
+          "city": "NEUQUEN",
+          "region": "CUYO"
+        }
+      }
+    },
+    {
+      "uid": "roadm_BAHIA_BLANCA",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -38.7183,
+          "longitude": -62.2663,
+          "city": "BAHIA BLANCA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_SANTA_ISABEL",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -36.2272,
+          "longitude": -66.9424,
+          "city": "SANTA ISABEL",
+          "region": "CUYO"
+        }
+      }
+    },
+    {
+      "uid": "roadm_CALETA_OLIVIA",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -46.4422,
+          "longitude": -67.5286,
+          "city": "CALETA OLIVIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "roadm_RIO_GALLEGOS",
+      "type": "Roadm",
+      "params": {
+        "target_pch_out_db": -18.8,
+        "restrictions": {},
+        "per_degree_pch_out_db": {}
+      },
+      "metadata": {
+        "location": {
+          "latitude": -51.6226,
+          "longitude": -69.2181,
+          "city": "RIO GALLEGOS",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_NEUQUEN_BAHIA_BLANCA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -38.8349,
+          "longitude": -65.1627,
+          "city": "edfa_NEUQUEN_BAHIA_BLANCA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_BAHIA_BLANCA_NEUQUEN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -38.8349,
+          "longitude": -65.1627,
+          "city": "edfa_BAHIA_BLANCA_NEUQUEN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_NEUQUEN_SANTA_ISABEL",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -37.5894,
+          "longitude": -67.5007,
+          "city": "edfa_NEUQUEN_SANTA_ISABEL",
+          "region": "CUYO"
+        }
+      }
+    },
+    {
+      "uid": "edfa_SANTA_ISABEL_NEUQUEN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -37.5894,
+          "longitude": -67.5007,
+          "city": "edfa_SANTA_ISABEL_NEUQUEN",
+          "region": "CUYO"
+        }
+      }
+    },
+    {
+      "uid": "edfa_NEUQUEN_CALETA_OLIVIA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -42.6969,
+          "longitude": -67.7938,
+          "city": "edfa_NEUQUEN_CALETA_OLIVIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_CALETA_OLIVIA_NEUQUEN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -42.6969,
+          "longitude": -67.7938,
+          "city": "edfa_CALETA_OLIVIA_NEUQUEN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_NEUQUEN_RIO_GALLEGOS",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -45.2871,
+          "longitude": -68.6386,
+          "city": "edfa_NEUQUEN_RIO_GALLEGOS",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_RIO_GALLEGOS_NEUQUEN",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -45.2871,
+          "longitude": -68.6386,
+          "city": "edfa_RIO_GALLEGOS_NEUQUEN",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_CALETA_OLIVIA_BAHIA_BLANCA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -42.5802,
+          "longitude": -64.8974,
+          "city": "edfa_CALETA_OLIVIA_BAHIA_BLANCA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_BAHIA_BLANCA_CALETA_OLIVIA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -42.5802,
+          "longitude": -64.8974,
+          "city": "edfa_BAHIA_BLANCA_CALETA_OLIVIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_RIO_GALLEGOS_BAHIA_BLANCA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -45.1704,
+          "longitude": -65.7422,
+          "city": "edfa_RIO_GALLEGOS_BAHIA_BLANCA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_BAHIA_BLANCA_RIO_GALLEGOS",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -45.1704,
+          "longitude": -65.7422,
+          "city": "edfa_BAHIA_BLANCA_RIO_GALLEGOS",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_RIO_GALLEGOS_CALETA_OLIVIA",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -49.0324,
+          "longitude": -68.3733,
+          "city": "edfa_RIO_GALLEGOS_CALETA_OLIVIA",
+          "region": "SUR"
+        }
+      }
+    },
+    {
+      "uid": "edfa_CALETA_OLIVIA_RIO_GALLEGOS",
+      "type": "Edfa",
+      "params": {},
+      "metadata": {
+        "location": {
+          "latitude": -49.0324,
+          "longitude": -68.3733,
+          "city": "edfa_CALETA_OLIVIA_RIO_GALLEGOS",
+          "region": "SUR"
+        }
+      }
+    }
+  ],
+  "connections": [
+    {
+      "from_node": "trx_NEUQUEN",
+      "to_node": "roadm_NEUQUEN"
+    },
+    {
+      "from_node": "roadm_NEUQUEN",
+      "to_node": "trx_NEUQUEN"
+    },
+    {
+      "from_node": "trx_BAHIA_BLANCA",
+      "to_node": "roadm_BAHIA_BLANCA"
+    },
+    {
+      "from_node": "roadm_BAHIA_BLANCA",
+      "to_node": "trx_BAHIA_BLANCA"
+    },
+    {
+      "from_node": "trx_SANTA_ISABEL",
+      "to_node": "roadm_SANTA_ISABEL"
+    },
+    {
+      "from_node": "roadm_SANTA_ISABEL",
+      "to_node": "trx_SANTA_ISABEL"
+    },
+    {
+      "from_node": "trx_CALETA_OLIVIA",
+      "to_node": "roadm_CALETA_OLIVIA"
+    },
+    {
+      "from_node": "roadm_CALETA_OLIVIA",
+      "to_node": "trx_CALETA_OLIVIA"
+    },
+    {
+      "from_node": "trx_RIO_GALLEGOS",
+      "to_node": "roadm_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "roadm_RIO_GALLEGOS",
+      "to_node": "trx_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "roadm_NEUQUEN",
+      "to_node": "edfa_NEUQUEN_BAHIA_BLANCA"
+    },
+    {
+      "from_node": "edfa_NEUQUEN_BAHIA_BLANCA",
+      "to_node": "roadm_BAHIA_BLANCA"
+    },
+    {
+      "from_node": "roadm_BAHIA_BLANCA",
+      "to_node": "edfa_BAHIA_BLANCA_NEUQUEN"
+    },
+    {
+      "from_node": "edfa_BAHIA_BLANCA_NEUQUEN",
+      "to_node": "roadm_NEUQUEN"
+    },
+    {
+      "from_node": "roadm_NEUQUEN",
+      "to_node": "edfa_NEUQUEN_SANTA_ISABEL"
+    },
+    {
+      "from_node": "edfa_NEUQUEN_SANTA_ISABEL",
+      "to_node": "roadm_SANTA_ISABEL"
+    },
+    {
+      "from_node": "roadm_SANTA_ISABEL",
+      "to_node": "edfa_SANTA_ISABEL_NEUQUEN"
+    },
+    {
+      "from_node": "edfa_SANTA_ISABEL_NEUQUEN",
+      "to_node": "roadm_NEUQUEN"
+    },
+    {
+      "from_node": "roadm_NEUQUEN",
+      "to_node": "edfa_NEUQUEN_CALETA_OLIVIA"
+    },
+    {
+      "from_node": "edfa_NEUQUEN_CALETA_OLIVIA",
+      "to_node": "roadm_CALETA_OLIVIA"
+    },
+    {
+      "from_node": "roadm_CALETA_OLIVIA",
+      "to_node": "edfa_CALETA_OLIVIA_NEUQUEN"
+    },
+    {
+      "from_node": "edfa_CALETA_OLIVIA_NEUQUEN",
+      "to_node": "roadm_NEUQUEN"
+    },
+    {
+      "from_node": "roadm_NEUQUEN",
+      "to_node": "edfa_NEUQUEN_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "edfa_NEUQUEN_RIO_GALLEGOS",
+      "to_node": "roadm_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "roadm_RIO_GALLEGOS",
+      "to_node": "edfa_RIO_GALLEGOS_NEUQUEN"
+    },
+    {
+      "from_node": "edfa_RIO_GALLEGOS_NEUQUEN",
+      "to_node": "roadm_NEUQUEN"
+    },
+    {
+      "from_node": "roadm_CALETA_OLIVIA",
+      "to_node": "edfa_CALETA_OLIVIA_BAHIA_BLANCA"
+    },
+    {
+      "from_node": "edfa_CALETA_OLIVIA_BAHIA_BLANCA",
+      "to_node": "roadm_BAHIA_BLANCA"
+    },
+    {
+      "from_node": "roadm_BAHIA_BLANCA",
+      "to_node": "edfa_BAHIA_BLANCA_CALETA_OLIVIA"
+    },
+    {
+      "from_node": "edfa_BAHIA_BLANCA_CALETA_OLIVIA",
+      "to_node": "roadm_CALETA_OLIVIA"
+    },
+    {
+      "from_node": "roadm_RIO_GALLEGOS",
+      "to_node": "edfa_RIO_GALLEGOS_BAHIA_BLANCA"
+    },
+    {
+      "from_node": "edfa_RIO_GALLEGOS_BAHIA_BLANCA",
+      "to_node": "roadm_BAHIA_BLANCA"
+    },
+    {
+      "from_node": "roadm_BAHIA_BLANCA",
+      "to_node": "edfa_BAHIA_BLANCA_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "edfa_BAHIA_BLANCA_RIO_GALLEGOS",
+      "to_node": "roadm_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "roadm_RIO_GALLEGOS",
+      "to_node": "edfa_RIO_GALLEGOS_CALETA_OLIVIA"
+    },
+    {
+      "from_node": "edfa_RIO_GALLEGOS_CALETA_OLIVIA",
+      "to_node": "roadm_CALETA_OLIVIA"
+    },
+    {
+      "from_node": "roadm_CALETA_OLIVIA",
+      "to_node": "edfa_CALETA_OLIVIA_RIO_GALLEGOS"
+    },
+    {
+      "from_node": "edfa_CALETA_OLIVIA_RIO_GALLEGOS",
+      "to_node": "roadm_RIO_GALLEGOS"
+    }
+  ]
+}
